@@ -15,10 +15,11 @@ pipenv shell
 2. Run the server
 
 ~~~
-set FLASK_APP=server.py
-set FLASK_ENV=development
-set FLASK_DEBUG=true
+export FLASK_APP=server.py
+export FLASK_ENV=development
+export FLASK_DEBUG=true
+
 flask run --host=0.0.0.0 --port=5000
 ~~~
 
-3. Go to [http://localhost:5000/checkout.html](http://localhost:5000/checkout.html)
+3. Go to [http://localhost:5000](http://localhost:5000)
