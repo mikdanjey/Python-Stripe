@@ -5,3 +5,11 @@ admin@localhost.com
 
 https://github.com/jameshenry2020/-Stripe-Payment-processing-in-Django-rest-framework-Backend
 https://github.com/jameshenry2020/stripe-payment-frontend-in-react
+https://flask.palletsprojects.com/en/2.0.x/quickstart/
+https://medium.com/@svibhuti22/setting-up-my-first-flask-project-767b31367298
+https://tonyj.me/blog/building-rest-apis-with-python-and-flask-part-1/
+https://stripe.com/docs/payments/quickstart?lang=python&client=react
+
+https://www.youtube.com/playlist?list=PL-lwbotZANgTxYjahmTOVqfKjAoMfROko
+
+https://neapay.com/online-tools/credit-card-number-generator-validator.html

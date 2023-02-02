@@ -5,7 +5,8 @@ import stripe
 # This is a public sample test API key.
 # Don’t submit any personally identifiable information in requests made with this key.
 # Sign in to see your own test API key embedded in code samples.
-stripe.api_key = os.environ.get("STRIPE_KEY")
+STRIPE_KEY = os.environ.get("STRIPE_KEY")
+stripe.api_key = STRIPE_KEY
 
 from flask import Flask, render_template, jsonify, request
 
