@@ -1,0 +1,7 @@
+https://stripe.com/docs/js/payment_request/events/on_token
+
+admin@localhost.com
+4242424242424242
+
+https://github.com/jameshenry2020/-Stripe-Payment-processing-in-Django-rest-framework-Backend
+https://github.com/jameshenry2020/stripe-payment-frontend-in-react
